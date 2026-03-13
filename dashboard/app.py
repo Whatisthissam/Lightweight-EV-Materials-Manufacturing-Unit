@@ -111,9 +111,16 @@ fig = px.bar(
     title="Financial Breakdown"
 )
 
+fig.update_layout(
+    template="plotly_dark",
+    paper_bgcolor="rgba(0,0,0,0)",
+    plot_bgcolor="rgba(0,0,0,0)",
+    font_color="#FAFAFA",
+)
+
 st.plotly_chart(
     fig,
-    use_container_width=True
+    width="stretch"
 )
 
 st.divider()
