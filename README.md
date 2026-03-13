@@ -175,10 +175,10 @@ Therefore, it is recommended that ElectroLite Materials Pvt. Ltd. **proceed with
 # 🔗 Project Links
 
 ### GitHub Repository
-(Add GitHub Repository Link Here)
+https://github.com/Whatisthissam/Lightweight-EV-Materials-Manufacturing-Unit.git
 
 ### Streamlit Dashboard
-(Add Streamlit Deployment Link Here)
+https://whatisthissam-lightweight-ev-materials-manu-dashboardapp-fczkc7.streamlit.app/
 
 ---
 
